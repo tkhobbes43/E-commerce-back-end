@@ -48,7 +48,9 @@ This application will require you to use Node.js, Express.js, and the Sequelize 
 ## Usage
 This application will allow users to view, create, edit, and delete categories, products, and tags to the database.
 
-View video walkthrough to see MySQL database in action [here]().
+![screenshot of MySql database in action](./assets/images/Screenshot%202022-07-07%20225250.png)
+
+View video walkthrough to see MySQL database in action [here](https://drive.google.com/file/d/1R5zX4sO303OBCqBj-VDgVyCidmDu_hax/view?usp=sharing).
 View video walkthrough to see how the API routes for the HTTP requests are done for this app [here]().
 
 ## Questions
